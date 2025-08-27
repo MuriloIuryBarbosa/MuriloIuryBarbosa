@@ -28,31 +28,31 @@ Sou um desenvolvedor focado em **Java/JavaFX**, **SQLite/MySQL/PostgreSQL**, **a
 ## 📌 Projetos de destaque
 
 * **DividasApp** — painel financeiro em JavaFX com visual de velocímetro, SQLite e interface responsiva.
-  *Link:* `https://github.com/<MuriloIuryBarbosa>/DividasApp`
+  *Link:* `https://github.com/MuriloIuryBarbosa/DividasApp`
 * **Unity Sailing (protótipo)** — simulação de vela virtual com C# e assets modelados no Blender.
-  *Link:* `https://github.com/<MuriloIuryBarbosa>/unity-sailing`
+  *Link:* `https://github.com/MuriloIuryBarbosa/unity-sailing`
 * **Megalodon Store (ops)** — scripts e integrações para operações de e-commerce/dropshipping.
-  *Link:* `https://github.com/<MuriloIuryBarbosa>/megalodon-ops`
+  *Link:* `https://github.com/MuriloIuryBarbosa/megalodon-ops`
 
-> Substitua `<MuriloIuryBarbosa>` pelos seus repositórios reais quando publicar.
+> Substitua `MuriloIuryBarbosa` pelos seus repositórios reais quando publicar.
 
 ---
 
 ## 📈 Stats & Gráficos
 
-> **Observação:** gráficos são gerados de forma dinâmica a partir do seu usuário (veja a seção “Como configurar” para ativar). Substitua `<MuriloIuryBarbosa>` pelo seu username do GitHub.
+> **Observação:** gráficos são gerados de forma dinâmica a partir do seu usuário (veja a seção “Como configurar” para ativar). Substitua `MuriloIuryBarbosa` pelo seu username do GitHub.
 
 ### 🔢 Estatísticas gerais
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<MuriloIuryBarbosa>\&show_icons=true\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloIuryBarbosa\&show_icons=true\&include_all_commits=true\&count_private=true)
 
 ### 🔥 Streak (dias seguidos contribuindo)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=<MuriloIuryBarbosa>\&date_format=j%2Fn%5B%2FY%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=MuriloIuryBarbosa\&date_format=j%2Fn%5B%2FY%5D)
 
 ### 🗺️ Atividade por dia (gráfico preenchido)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<MuriloIuryBarbosa>\&area=true\&radius=12\&hide_border=true\&custom_title=Minhas%20Contribui%C3%A7%C3%B5es%20por%20Dia)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuriloIuryBarbosa\&area=true\&radius=12\&hide_border=true\&custom_title=Minhas%20Contribui%C3%A7%C3%B5es%20por%20Dia)
 
 ### 🧊 Calendário isométrico de commits (semestre)
 
