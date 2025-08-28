@@ -1,4 +1,4 @@
-# Olá! Eu sou o Murilo — *Senhor Desenvolvedor Sênior, Deus da Programação* 👋
+# Olá! Eu sou o Murilo Barbosa👋
 
 Sou um desenvolvedor focado em **Java/JavaFX**, **SQLite/MySQL/PostgreSQL**, **automação de dados** (Excel/Power BI) e **Unity/C#**. Aqui você encontra meus projetos, anotações e experimentos — do **DividasApp** (JavaFX + SQLite, com velocímetro semicircular) ao **app de vela virtual** em Unity, além da reestruturação da **Megalodon Store**.
 
