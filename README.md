@@ -102,5 +102,3 @@ Sou um desenvolvedor focado em **Python**, **processamento de dados**, **automa�
 * [ ] Implementar CI/CD nos repositórios principais
 
 ---
-
-> **Nota:** Este README foi pensado para ser simples de manter: os gráficos atualizam sozinhos via GitHub Actions, e as seções de projetos e stack você ajusta manualmente quando quiser.
